@@ -1,5 +1,5 @@
-/*insert into userjpa values (1,'CT',sysdate());
-insert into userjpa values (2,'TT',sysdate());
-insert into userjpa values (3,'TcT',sysdate());
-insert into userjpa values (4,'TcsT',sysdate());
-*/
+/*insert into userjpa(birthdate,name) values (sysdate(),'CT');
+insert into userjpa(birthdate,name) values (sysdate(),'TT');
+insert into userjpa(birthdate,name) values (sysdate(),'TcT');
+insert into userjpa(birthdate,name) values (sysdate(),'TcsT');*/
+
